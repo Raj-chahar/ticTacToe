@@ -14,7 +14,7 @@ The Tic Tac Toe Game is a classic two-player game implemented using React Native
 
 ## Screenshots
 
-![Tic Tac Toe Game Screenshot]('./Screenshot 2024-10-07 at 11.04.03 PM.png')
+<img src="./Screenshot 2024-10-07 at 11.04.03 PM.png" alt="Tic Tac Toe Game" width="250" height="auto">
 
 ## Technologies Used
 
