@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Tic Tac Toe Game is a classic two-player game implemented using React Native. This app allows players to take turns placing their marks (X and O) on a 3x3 grid, with the objective of getting three in a row—horizontally, vertically, or diagonally.
+This Tic Tac Toe Game is a classic two-player game implemented using React Native. This app allows players to take turns placing their marks (X and O) on a 3x3 grid, with the objective of getting three in a row—horizontally, vertically, or diagonally.
 
 ## Features
 
